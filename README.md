@@ -1,4 +1,4 @@
 # Hello-World
 
 Hi!
-My name is Bin Xu. I am from china.
+My name is Bin Xu. I'm from china.
