@@ -1,2 +1,2 @@
-# HelloWord
+# Hello-World
 first repository
